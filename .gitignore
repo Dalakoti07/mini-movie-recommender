@@ -1,0 +1,6 @@
+data/
+data.csv
+m_m_sim_sparse.npz
+differentDataset/
+sparse_matrix.npz
+.ipynb_checkpoints
